@@ -1,0 +1,6 @@
+.object{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(35, 12, 24);
+    position: relative;
+}
